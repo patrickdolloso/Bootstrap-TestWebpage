@@ -14,7 +14,7 @@ Patrick Dolloso (patrick.dolloso@gmail.com)
 
 ## How to run file:
 clone into machine, open "index.html" in browser
-![](images/Bootstrap-gif1.gif)
+<img src="images/Bootstrap-gif1.gif" width="400px">
 
 ## Reviewers:
 none atm
