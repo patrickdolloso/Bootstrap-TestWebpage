@@ -14,7 +14,7 @@ Patrick Dolloso (patrick.dolloso@gmail.com)
 
 ## How to run file:
 clone into machine, open "index.html" in browser
-❮img src="https://raw.githubusercontent.com/patrickdolloso/Bootstrap-TestWebpage/master/Bootstrap-gif1.gif" width="100" ❯
+![](images/Bootstrap-gif1.gif)
 
 ## Reviewers:
 none atm
