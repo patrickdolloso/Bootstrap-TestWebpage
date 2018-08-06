@@ -1,4 +1,4 @@
-#Bootstrap Tutorial & Sample Tests
+# Bootstrap Tutorial & Sample Tests
 
 ## About
 This is a quick bootstrap test to sharpen my Front End Designing skills required for the Front End Libraries Certification in FreeCodeCamp & my BS-CS degree at UOP
@@ -14,9 +14,15 @@ Patrick Dolloso (patrick.dolloso@gmail.com)
 
 ## How to run file:
 clone into machine, open "index.html" in browser
+❮img src="https://github.com/patrickdolloso/Bootstrap-TestWebpage/Bootstrap-gif1.gif" width="100" ❯
 
 ## Reviewers:
 none atm
 
 ## Bugs:
 none atm
+
+> Markdown tut:
+> https://daringfireball.net/projects/markdown/syntax
+
+
