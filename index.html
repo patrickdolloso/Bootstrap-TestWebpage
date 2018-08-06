@@ -1,3 +1,6 @@
+<!--https://www.youtube.com/watch?v=gqOEoUR5RHg&t=1022s-->
+<!--Responsively Hiding Elements-->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,26 +32,22 @@
 <body>
 
     <div class="container">
-        <div class="row">
-            <div class="col-lg-2 col-md-2 col-sm-4 col-xs-12">
-                <h4><a href="#col1Content" data-toggle="collapse">Column1</a>
-                </h4>
-                <div id="col1Content" class="collapse in">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores iure sequi perspiciatis error nam optio facilis, incidunt suscipit commodi deserunt sunt neque ipsum sit iusto officiis enim odio ex! Obcaecati?</div>
-              </div>
-
-              <div class="col-lg-4 col-md-4 col-sm-8 col-xs-12">
-                    <h4><a href="#col21Content" data-toggle="collapse">Column2</a>
-                    </h4>
-                    <div id="col2Content" class="collapse in">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores iure sequi perspiciatis error nam optio facilis, incidunt suscipit commodi deserunt sunt neque ipsum sit iusto officiis enim odio ex! Obcaecati?</div>
-                  </div>
-
-                  <div class="col-lg-4 col-md-4 col-sm-8 col-xs-12">
-                        <h4><a href="#col31Content" data-toggle="collapse">Column3</a>
-                        </h4>
-                        <div id="col3Content" class="collapse in">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores iure sequi perspiciatis error nam optio facilis, incidunt suscipit commodi deserunt sunt neque ipsum sit iusto officiis enim odio ex! Obcaecati?</div>
-                      </div>
-
+        <div class="well hidden-sm hidden-md hidden-lg">
+            <p>Screen &lt; 768px</p>
         </div>
+
+        <div class="well hidden-md hidden-lg">
+                <p>Screen &lt; 768px and &lt; 992px</p>
+            </div>
+
+            <div class="well hidden-lg">
+                    <p>Screen &lt; 992px and &lt; 1200px</p>
+                </div>
+                
+                <div class="well">
+                        <p>Screen &gt; 1200px</p>
+                    </div>
+
     </div>
 
 
